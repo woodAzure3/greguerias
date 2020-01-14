@@ -1,0 +1,35 @@
+body {
+    background-color:green;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 250%;
+    text-transform: capitalize;
+}
+
+p{
+    font-size: 130%;
+}
+
+.niño{
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+.animal{
+    color: white;
+    font-family: sans-serif;
+}
+
+.literatura{
+    color: gold;
+    font-family: monospace;
+    font-size: 150%;
+}
+
+.numero{
+    color: red;
+    font-family: cursive;
+}
